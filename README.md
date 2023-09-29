@@ -38,7 +38,7 @@ npm install
 
 ---
 
-A aplicação está rodando em servidor local, por tanto, execute a [API](https://github.com/felipems1/nlw-ia-api.git) localmente para testar a aplicação. Para rodar o servidor BackEnd basta seguir as instruções deixada no readme da API mencionada.
+A aplicação está rodando em servidor local, por tanto, execute a [API](https://github.com/felipems1/upload-ai-backend) localmente para testar a aplicação. Para rodar o servidor BackEnd basta seguir as instruções deixada no readme da API mencionada.
 
 ---
 
