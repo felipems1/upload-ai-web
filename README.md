@@ -12,7 +12,7 @@ Aplicação que possibilita realizar upload de videos e por meio de IA, criar au
 
 ## 2 - Tecnologias
 
-Um pouco das tecnologias que foram utilizadas no projeto até agora: 
+Um pouco das tecnologias que foram utilizadas no projeto: 
 
 - ReactJS
 - TypeScript
