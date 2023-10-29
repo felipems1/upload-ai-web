@@ -22,30 +22,23 @@ Um pouco das tecnologias que foram utilizadas no projeto:
 
 ---
 
-## 3 - Instalação e uso
+## 3 - Rodando o projeto:
 
-### Requisitos:
-- [NodeJS](https://nodejs.org/en/)
-- [Npm](https://www.npmjs.com) ou [yarn](https://yarnpkg.com)
+Você precisa ter o [Node](https://nodejs.org/en/), o [Git](https://git-scm.com/) e algum gerenciador de pacotes([NPM](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm/) | [Yarn](https://classic.yarnpkg.com/lang/en/docs/install)) instalados em sua máquina.
 
-Clone o projeto em sua máquina e instale as dependências com o comando:
+A aplicação está rodando em servidor local, por tanto, execute a [API](https://github.com/felipems1/upload-ai-backend.git) localmente para testar a aplicação. Para rodar o servidor BackEnd basta seguir as instruções deixada no readme da API mencionada.
 
-```shell
-yarn
-ou
-npm install
+```bash
+1. Clone o repositório:
+$ git clone https://github.com/felipems1/upload-ai-frontend.git
+
+2. Acesse a pasta e instale as dependências via terminal:
+$ yarn install / npm install
+
+3. Inicie a aplicação em modo de desenvolvimento:
+$ yarn dev / npm run dev
+
+4. O servidor será aberto em http://localhost:3000
 ```
 
----
-
-A aplicação está rodando em servidor local, por tanto, execute a [API](https://github.com/felipems1/upload-ai-backend) localmente para testar a aplicação. Para rodar o servidor BackEnd basta seguir as instruções deixada no readme da API mencionada.
-
----
-
-Com todas as dependencias devidamente instaladas, basta rodar o seguinte comando:
-
-```shell
-yarn dev
-ou
-npm run dev
-```
+<p align="center">Projeto feito com ❤️ por <a href="https://www.linkedin.com/in/felipems12/">Felipe Moises</a></p>
