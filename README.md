@@ -30,7 +30,7 @@ A aplicação está rodando em servidor local, por tanto, execute a [API](https:
 
 ```bash
 1. Clone o repositório:
-$ git clone https://github.com/felipems1/upload-ai-frontend.git
+$ git clone https://github.com/felipems1/upload-ai-web.git
 
 2. Acesse a pasta e instale as dependências via terminal:
 $ yarn install / npm install
