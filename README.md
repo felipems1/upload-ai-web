@@ -26,7 +26,7 @@ Um pouco das tecnologias que foram utilizadas no projeto:
 
 Você precisa ter o [Node](https://nodejs.org/en/), o [Git](https://git-scm.com/) e algum gerenciador de pacotes([NPM](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm/) | [Yarn](https://classic.yarnpkg.com/lang/en/docs/install)) instalados em sua máquina.
 
-A aplicação está rodando em servidor local, por tanto, execute a [API](https://github.com/felipems1/upload-ai-backend.git) localmente para testar a aplicação. Para rodar o servidor BackEnd basta seguir as instruções deixada no readme da API mencionada.
+A aplicação está rodando em servidor local, por tanto, execute a [API](https://github.com/felipems1/upload-ai-server.git) localmente para testar a aplicação. Para rodar o servidor BackEnd basta seguir as instruções deixada no readme da API mencionada.
 
 ```bash
 1. Clone o repositório:
