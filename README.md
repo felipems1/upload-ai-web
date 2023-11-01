@@ -1,4 +1,4 @@
-# Upload AI - FrontEnd
+<h1 align="center"> Upload AI - Front End </h1>
 
 <div align="center">
   <img src="./public/preview.png" alt="demonstração do projeto" >
@@ -12,7 +12,7 @@ Aplicação que possibilita realizar upload de videos e por meio de IA, criar au
 
 ## 2 - Tecnologias
 
-Um pouco das tecnologias que foram utilizadas no projeto: 
+Um pouco das tecnologias que foram utilizadas no projeto:
 
 - ReactJS
 - TypeScript
